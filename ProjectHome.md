@@ -1,0 +1,3 @@
+This element enables you to pick dates with a simple slider bar. By dragging the bar over the time-line, the dates change instantly. Besides this, when the user decides to manually change the dates, the bar is automatically adjusted to the corresponding dates. As you are used to from us, the script is based on Prototype/Scriptaculous, but now combined with the DateJs library.
+
+![http://ajaxorized.com/dateslider/slider_gcode.jpg](http://ajaxorized.com/dateslider/slider_gcode.jpg)
